@@ -17,5 +17,7 @@ It enables you to make informed business decisions and predict your company's pe
 **Establishing a production policy-** 
 It enables you to define the gap between demand and supply. You can estimate the necessary number of raw materials to maintain the regular supply. Besides, your company can utilize resources to the maximum if your operations are based on forecasts.
 
+They help us in creating good dashboards as we can see what all criteria we need to meet that was asked by the sales manager.
+
 # About Adventure Works Database
 AdventureWorks Database is a Microsoft product sample for an online transaction processing (OLTP) database. The AdventureWorks Database supports a fictitious, multinational manufacturing company called Adventure Works Cycles.
