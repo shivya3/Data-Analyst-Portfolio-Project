@@ -1,4 +1,10 @@
 # Sales-Analysis-using-PowerBI-Project
+# Tools
+-PowerBI
+
+-Microsoft SQL Server Management Studio
+
+
 # Business Request
 We will get a business request mail from our sales manager and we need to resolve that problem using various tools like PowerBI
 
@@ -9,7 +15,7 @@ Demand analysis is the research conducted by companies that aim at understanding
 Gaining and monitoring customer feedback is vital if your goal is to see customers' reactions to your new product. This is a great way to find out whether consumers are satisfied with your goods or if there's still something you can improve.
 
 **Formulating a pricing policy-**
-You can set the prices after having analyzed the demand thoroughly. Understanding the trend of consumer demand allows you to quickly decide whether to increase or decrease the price for a particular product. Remember, companies can't set prices without understanding the inclinations of their target audience.
+You can set the prices after having analy zed the demand thoroughly. Understanding the trend of consumer demand allows you to quickly decide whether to increase or decrease the price for a particular product. Remember, companies can't set prices without understanding the inclinations of their target audience.
 
 **Sales forecasting-**
 It enables you to make informed business decisions and predict your company's performance. With a detailed analysis, you can estimate your future sales. Sales forecasting can give you insights and tips on managing your firm's cash flow, resources, and workforce. Besides the proper allocation of resources, it helps you predict sales revenue.
@@ -46,8 +52,17 @@ AdventureWorks Database is a Microsoft product sample for an online transaction 
 
 # Steps involved in Sales analysis
 -Check Mail
+
 -Mark Key points
+
 -Make Business demand overview
+
 -View Data
+
 -Select only important tables
+
 -Clean the data by selecting only those columns which are neccessary
+
+-Save the query script and tables
+
+-Now we will be using Powerbi to create dashboard
